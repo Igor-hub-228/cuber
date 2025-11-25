@@ -495,11 +495,11 @@ Camera:
   m_FOVAxisMode: 0
   m_Iso: 200
   m_ShutterSpeed: 0.005
-  m_Aperture: 16
+  m_Aperture: 32
   m_FocusDistance: 10
-  m_FocalLength: 50
+  m_FocalLength: 200
   m_BladeCount: 5
-  m_Curvature: {x: 2, y: 11}
+  m_Curvature: {x: 23, y: 32}
   m_BarrelClipping: 0.25
   m_Anamorphism: 0
   m_SensorSize: {x: 36, y: 24}
@@ -512,9 +512,9 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 6.8672605
   orthographic: 0
-  orthographic size: 5
+  orthographic size: 2
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -539,7 +539,7 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.09099996, y: 2.208, z: -0.01999998}
+  m_LocalPosition: {x: 0.09099996, y: 67.4, z: -0}
   m_LocalScale: {x: 1.0015198, y: 1.1190614, z: 0.83032125}
   m_ConstrainProportionsScale: 0
   m_Children: []
